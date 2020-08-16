@@ -1,13 +1,8 @@
 <?php
-require_once "TestA.php";
+namespace lwb1531\test;
 
 class TestB {
     public function ta(){
         echo TestA::ta();
     }
 }
-
-
-
-$t = new TestB();
-$t->ta();

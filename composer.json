@@ -12,7 +12,7 @@
 	},
 	"autoload":{
 		"psr-4":{
-			"Lwb1531\\Test\\": "src/"
+			"lwb1531\\test\\": "src/"
 		}
 	}
 }
