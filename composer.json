@@ -11,6 +11,9 @@
 		"php": ">=7.1"
 	},
 	"autoload":{
+		"psr-0":{
+			"lwb1531\\test\\": "src/"
+		},
 		"psr-4":{
 			"lwb1531\\test\\": "src/"
 		}

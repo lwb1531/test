@@ -1,1 +1,7 @@
 this is log file of test	
+lwb1531\test\TestB.php
+lwb1531\test\TestB.php
+lwb1531\test\TestB.php
+t
+lwb1531\test\TestB.php
+lwb1531\test\TestB
